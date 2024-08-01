@@ -36,3 +36,20 @@ header {
     text-wrap: balance;
   }
 }
+
+.popup_button {
+  border: 1px solid #000000;
+  border-radius: 2px;
+  padding: 4px;
+  width: 15%;
+  margin-top: 5px;
+}
+
+.popup_text {
+  border: 1px solid #000000;
+  border-radius: 2px;
+}
+
+.popup_header {
+  font-size: medium;
+}

@@ -163,7 +163,7 @@ export default function Main() {
         <div className="">
             <Header craftingDispatch={dispatchData}/>
             <LogButton text="testing" dis={dispatchData} popupToggle={togglePopupCallback(popupState, setPopupState)}/>
-            <PopupEditor popupState={popupState} popupToggle={togglePopupCallback(popupState, setPopupState)}/>
+            <PopupEditor craft_act={dispatchData} CraftingData={craftingData}></PopupEditor>
             <SelectionDisplay craftingData={craftingData} requestState={craftingRequestState} requestDispatch={dispatchCraftingRequest}/>
 
             <SVGTest/>
