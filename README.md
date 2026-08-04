@@ -1,4 +1,5 @@
 # ResourceCalc
+[Link to website](https://nmerryman.github.io/CraftingCalc/)
 
 ## Goal
 The goal of this project is to be able to help calculate required resources in order to produces specific items. This site is optomized for Minecraft Modpacks, but probably works for vanilla and other factory crafting games as well.
